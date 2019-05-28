@@ -1,1 +1,3 @@
 # hello-world
+Hi human, i want to going shopping,but i don't have any money.
+Can you give me some money? i will .....
